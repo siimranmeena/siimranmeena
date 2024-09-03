@@ -1,6 +1,8 @@
 
-- 🌱 I’m currently learning how to make AI smarter and software that doesn’t crash – a work in progress!
-- 💞️ I’m looking to collaborate on project where we can both pretend to be tech wizards while actually solving real problems.
+- 🌱 I’m currently learning how to make AI smarter
+   and software that doesn’t crash – a work in progress!
+- 💞️ I’m looking to collaborate on project
+   where we can both pretend to be tech wizards while actually solving real problems.
 - 📫 How to reach me: siimranmeena23@gmail.com
 
 <h1 align="center">Hi 👋, I'm Simran Meena</h1>
