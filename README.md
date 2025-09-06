@@ -3,7 +3,7 @@
    and software that doesn’t crash – a work in progress!
 - 💞️ I’m looking to collaborate on project
    where we can both pretend to be tech wizards while actually solving real problems.
-- 📫 How to reach me: siimran.meena2gmail.com
+- 📫 How to reach me: siimran.meena@gmail.com
 
 <h1 align="center">Hi 👋, I'm Simran Meena</h1>
 <h3 align="center">Intersted in Software Development and AI/ML</h3>
